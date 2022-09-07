@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/wxp/github/ubuntu/demo_soldier/build",
+  "command": "/usr/bin/g++  -I/home/wxp/github/ubuntu/demo_soldier/include  -g -O2 -Wall -g -o CMakeFiles/main_cmake.dir/main.cpp.o -c /home/wxp/github/ubuntu/demo_soldier/main.cpp",
+  "file": "/home/wxp/github/ubuntu/demo_soldier/main.cpp"
+},
+{
+  "directory": "/home/wxp/github/ubuntu/demo_soldier/build",
+  "command": "/usr/bin/g++  -I/home/wxp/github/ubuntu/demo_soldier/include  -g -O2 -Wall -g -o CMakeFiles/main_cmake.dir/src/soldier.cpp.o -c /home/wxp/github/ubuntu/demo_soldier/src/soldier.cpp",
+  "file": "/home/wxp/github/ubuntu/demo_soldier/src/soldier.cpp"
+},
+{
+  "directory": "/home/wxp/github/ubuntu/demo_soldier/build",
+  "command": "/usr/bin/g++  -I/home/wxp/github/ubuntu/demo_soldier/include  -g -O2 -Wall -g -o CMakeFiles/main_cmake.dir/src/gun.cpp.o -c /home/wxp/github/ubuntu/demo_soldier/src/gun.cpp",
+  "file": "/home/wxp/github/ubuntu/demo_soldier/src/gun.cpp"
+}
+]

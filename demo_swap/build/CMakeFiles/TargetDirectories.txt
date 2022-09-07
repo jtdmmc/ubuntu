@@ -1,0 +1,3 @@
+/home/wxp/github/ubuntu/demo_swap/build/CMakeFiles/swap_cmake.dir
+/home/wxp/github/ubuntu/demo_swap/build/CMakeFiles/edit_cache.dir
+/home/wxp/github/ubuntu/demo_swap/build/CMakeFiles/rebuild_cache.dir

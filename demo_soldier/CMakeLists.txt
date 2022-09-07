@@ -18,7 +18,6 @@ message("PROJECT_BINARY_DIR: ${PROJECT_BINARY_DIR}")
 
 
 
-
 if (PROJECT_BINARY_DIR STREQUAL PROJECT_SOURCE_DIR)
     message(MARNING "The binary directory of CMake cannot be the same as source directory.")
 endif ()
